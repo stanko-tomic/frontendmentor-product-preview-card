@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/stanko-tomic/frontendmentor-product-preview-card)
-- Live Site URL: [Vercel]()
+- Live Site URL: [Vercel](https://frontendmentor-product-preview-card-psi.vercel.app/)
 
 ## My process
 
