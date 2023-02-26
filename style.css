@@ -56,14 +56,15 @@ body {
   padding: 1em;
 }
 
-.card-content h1 {
+.card-content .card-heading {
   font-size: 2rem;
   color: var(--clr-neutral-darkBlue);
   font-family: "Fraunces", sans-serif;
+  line-height: 1.5ch;
   margin: 1rem 0;
 }
 
-.card-content h2 {
+.card-content .card-type {
   text-transform: uppercase;
   letter-spacing: 6px;
   color: var(--clr-neutral-grayBlue);
